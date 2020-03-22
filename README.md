@@ -34,6 +34,6 @@ Senha: 123456
 - A cada transação terá 30 segundos de espera para uma nova.
 - O projeto pode levar alguns segundos para iniciar, pois o serviço de filas do RabbitMQ possui um delay. 
 
-## Autor 👦
+## Autor
 
 * Willian Roberto Montrezol - [GitHub](https://github.com/willmont1982)
