@@ -2,9 +2,6 @@
   <img alt="ctdig logo" src="logo.png" />
 </p>
 
-## Demonstração
-[Clique aqui](http://78.47.200.77:5001/) para acessar demonstração do Projeto.
-
 ## Execução do projeto
 Para executar o projeto:
 
