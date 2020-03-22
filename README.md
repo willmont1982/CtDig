@@ -27,7 +27,12 @@ Senha: 123456
 - Disponibilidade de depositos online que ao cadastrado ficará como pendente, efetuado posteriormente.
 - Clientes realizarão uma transferência para outras contas solicitando a transferência ela ficará como pendente, sendo adicionada posteriormente ou cancelada.
 - Depósito ou transferência forem cancelados será disparado um evento simulando o envio de e-mail notificando os clientes.
-- Depósito ou transferência forem efetuados sem restrição, a movimentação sera dada como OK.-
+- Depósito ou transferência forem efetuados sem restrição, a movimentação sera dada como OK.
+
+## Informações extras do projeto
+- Moedas em centavos convertidas em reais para o cliente
+- A cada transação terá 30 segundos de espera para uma nova.
+- O projeto pode levar alguns segundos para iniciar, pois o serviço de filas do RabbitMQ possui um delay. 
 
 ## Autor 👦
 
