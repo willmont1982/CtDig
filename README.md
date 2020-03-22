@@ -6,8 +6,8 @@
 Para executar o projeto:
 
 ```
-git clone https://github.com/willmont1982/CtDig.git
-cd Ctdig
+git clone https://github.com/willmont1982/ctdig.git
+cd ctdig
 docker-compose up --build -d
 ```
 ## Sobre
