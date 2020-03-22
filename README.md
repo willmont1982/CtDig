@@ -19,6 +19,9 @@ CNPJ: 03569262000160
 
 Senha: 123456
 
+FrontEnd: http://localhost:5001/
+API BackEnd: Via endpoint http://localhost:5002/
+
 ## Iniciando o projeto
 - Na tela de inicio da aplicação pela primeira devera ser cadastrado a agência junto com user admin.
 - Criando a conta o cliente ficará pendente até que o admin aprove o seu cadastro.
