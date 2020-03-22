@@ -15,9 +15,9 @@ A Aplicação CtDig simula um banco digital, contendo a área do cliente da agê
 
 ## Acesso da Aplicação com CNPJ e Senha:
 
-CNPJ: 22155606000139
+CNPJ: 03569262000160
 
-Senha: 21032020
+Senha: 123456
 
 ## Iniciando o projeto
 - Na tela de inicio da aplicação pela primeira devera ser cadastrado a agência junto com user admin.
