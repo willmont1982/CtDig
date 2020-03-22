@@ -2,11 +2,9 @@
   <img alt="ctdigBF logo" src="logo.png" />
 </p>
 
-Demonstração do Projeto: http://78.47.200.77:5001/
-
-## Execução do projeto
 Demonstração do Projeto: [Clique aqui](http://78.47.200.77:5001/) 
 
+## Execução do projeto
 ```
 git clone https://github.com/willmont1982/ctdig.git
 cd ctdig
