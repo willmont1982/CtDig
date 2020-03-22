@@ -19,7 +19,7 @@ CNPJ: 03569262000160
 
 Senha: 123456
 
-FrontEnd: http://localhost:5001/
+FrontEnd: Via endpoint http://localhost:5001/
 API BackEnd: Via endpoint http://localhost:5002/
 
 ## Iniciando o projeto
