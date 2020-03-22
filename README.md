@@ -1,9 +1,11 @@
 <p align="center">
-  <img alt="ctdig logo" src="logo.png" />
+  <img alt="ctdigBF logo" src="logo.png" />
 </p>
 
+Demonstração do Projeto: http://78.47.200.77:5001/
+
 ## Execução do projeto
-Para executar o projeto:
+Demonstração do Projeto: [Clique aqui](http://78.47.200.77:5001/) 
 
 ```
 git clone https://github.com/willmont1982/ctdig.git
@@ -11,7 +13,7 @@ cd ctdig
 docker-compose up --build -d
 ```
 ## Sobre
-A Aplicação CtDig simula um banco digital, contendo a área do cliente da agência e area administrativa onde o mesmo podera fazer depósitos e transferências.
+A Aplicação CtDigBF simula um banco digital, contendo a área do cliente da agência e area administrativa onde o mesmo podera fazer depósitos e transferências.
 
 ## Acesso da Aplicação com CNPJ e Senha:
 
