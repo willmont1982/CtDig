@@ -12,7 +12,7 @@ docker-compose up --build -d
 ```
 ## Sobre
 A Aplicação CtDigBF simula um banco digital, contendo a área do cliente da agência e area administrativa onde o mesmo podera fazer depósitos e transferências.
-Desenvolvimento na IDE Visual Studio 2019, em Asp.Net Core 3, C#, JavaScript, CSS, HTML, Banco de Dados MongoDB e Framework AngularJs 8. Autenticação JWT Token.
+Desenvolvimento na IDE Visual Studio 2019, em Asp.Net Core 3, C#, JavaScript, CSS, HTML, Banco de Dados MongoDB e Framework AngularJs 8. Autenticação JWT Token. Serviço de mensagem em fila RabbitMQ.
 - Aplicação multi plataformas devido a escalabilidade de algumas classes e módulos serem mais funcionais em determinadas linguagens e scripts.
 
 ## Acesso da Aplicação com CNPJ e Senha:
