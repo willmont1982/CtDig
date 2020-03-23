@@ -12,7 +12,7 @@ docker-compose up --build -d
 ```
 ## Sobre
 A Aplicação CtDigBF simula um banco digital, contendo a área do cliente da agência e area administrativa onde o mesmo podera fazer depósitos e transferências.
-
+Desenvolvimento na IDE Visual Studio 2019, em Asp.Net Core 3, C#, JavaScript, CSS, HTML, Banco de Dados MongoDB e Framework AngularJs 8.
 ## Acesso da Aplicação com CNPJ e Senha:
 
 CNPJ: 03569262000160
