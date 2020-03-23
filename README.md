@@ -38,7 +38,7 @@ API BackEnd: Via endpoint http://localhost:5002/
 - Moedas em centavos convertidas em reais para o cliente
 - A cada transação terá 30 segundos de espera para uma nova.
 - O projeto pode levar alguns segundos para iniciar, pois o serviço de filas do RabbitMQ possui um delay. 
-- Testes unitários Rest utilizando Postman.
+- Testes unitários Rest utilizando Postman com geração de JSON como resposta.
 
 ## Autor
 
