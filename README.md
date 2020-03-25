@@ -15,7 +15,7 @@ A Aplicação CtDigBF simula um banco digital, contendo a área do cliente da ag
 Desenvolvimento na IDE Visual Studio 2019, em Asp.Net Core 3, C#, JavaScript, CSS, HTML, Banco de Dados MongoDB e Framework AngularJs 8. Autenticação JWT Token. Serviço de mensagem em fila RabbitMQ.
 - Aplicação multi plataformas devido a escalabilidade de algumas classes e módulos serem mais funcionais em determinadas linguagens e scripts.
 
-## Acesso da Aplicação com CNPJ e Senha:
+## Acesso da Aplicação com CNPJ e Senha (Área Administrativa):
 
 CNPJ: 03569262000160
 
