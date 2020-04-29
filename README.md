@@ -2,7 +2,7 @@
   <img alt="ctdigBF logo" src="logo.png" />
 </p>
 
-Demonstração do Projeto em produção: [Clique aqui](http://78.47.200.77:5001/) 
+Demonstração do Projeto em produção: [Clique aqui](https://78.47.200.77:5001/) 
 
 ## Execução do projeto
 ```
